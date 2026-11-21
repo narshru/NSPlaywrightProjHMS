@@ -1,0 +1,17 @@
+[
+    {
+    "doc_name": "Linga",
+    "doc_specialization": "Dermatology",
+    "doc_location":"Delhi",
+    "doc_email": "linga@gmail.com",
+    "doc_phone": "98765423210"  
+    },
+    {
+
+    "doc_name": "Satya",
+    "doc_specialization": "Cardiology",
+    "doc_location":"Hyderabad",
+    "doc_email": "satya@gmail.com",
+    "doc_phone": "98765423211"
+    }
+]
